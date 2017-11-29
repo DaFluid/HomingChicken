@@ -8,6 +8,6 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 public class Localization {
     @SideOnly(Side.CLIENT)
     public static String itemString(Item item, String key, Object... params){
-        return I18n.format("item."+item.getUnlocalizedName()+"."+key,params);
+        return I18n.format(item.getUnlocalizedName()+"."+key,params);
     }
 }
