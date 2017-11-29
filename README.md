@@ -1,5 +1,5 @@
-# HomingChicken
-A Minecraft mod that adds a homing rocket launcher fueled by chicken eggs
+# Homing Chicken
+A Minecraft mod that adds a homing rocket launcher fueled by chicken eggs.
 
 ## Mod primary goals
 - provide an item that launches a homming missile projectile
